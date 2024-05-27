@@ -2,20 +2,20 @@
  Single-code-file version of my Box Buddy project. Writeup available on my portfolio.
 
 Required libraries:
-Adafruit TCS34725
-Adafruit ST7735
-Adafruit MPU6050
+Adafruit TCS34725,
+Adafruit ST7735,
+Adafruit MPU6050,
 Adafruit Sensor
 
 See circuit diagram for details on physical implementation.
 
 Sensors/components:
 
-1.44" TFT LCD ST7735 screen x1
-Basic 2-pin tactile button x1
-TCS34725 color sensor x1
-MPU6050 gyroscope x1
-1k resistors x4
+1.44" TFT LCD ST7735 screen x1,
+Basic 2-pin tactile button x1,
+TCS34725 color sensor x1,
+MPU6050 gyroscope x1,
+1k resistors x4,
 Arduino Nano x1
 
 
